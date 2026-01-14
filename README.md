@@ -5,7 +5,7 @@ Hi there, I'm Steffano Ganahl! 👋
 
 I'm a technology student from Santiago, Chile, focusing on Data Science and Machine Learning while learning web development fundamentals.
 
-🎓 Computer Programming Senior Technician - Universidad Mayor, Chile
+🎓 University Technician in Computer Programming - Universidad Mayor, Chile
 
 📊 Data Science & Machine Learning Bootcamp - 4Geeks Academy
 
