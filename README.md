@@ -8,6 +8,6 @@ I'm a technology student from Santiago, Chile, focusing on Data Science and Mach
 
 🐍 Python | Django | SQL | HTML/CSS
 
-🔴 Red Hat Certified - System Administration & OpenShift
+🔴 Red Hat Certified - System Administration I & OpenShift DO101
 
 📍 Santiago, Chile
