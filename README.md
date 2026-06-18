@@ -11,7 +11,7 @@ I'm a technology student from Santiago, Chile, focusing on Data Science and Mach
 
 🐍 Python | SQL |
 
-🔴 Red Hat Certified - Red Hat System Administration I (RH124) & OpenShift Applications (DO101)
+🔴 Red Hat Badges - Red Hat System Administration I (RH124) & OpenShift Applications (DO101)
 
 📍 Santiago, Chile
 
