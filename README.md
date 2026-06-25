@@ -16,7 +16,7 @@ Domain Operators (CL110)
 
 --------------------------------------------------------------------------------------------------
 
-🧠 Bachelor's Degree in Human Behavior (Psychology) — Universidad San Sebastián · Graduated with distinction 
+🧠 Bachelor's Degree in Human Behavior — Universidad San Sebastián · Graduated with distinction 
 
 📍 Santiago, Chile
 
