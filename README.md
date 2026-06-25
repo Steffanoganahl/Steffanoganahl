@@ -14,5 +14,9 @@ I'm a technology student from Santiago, Chile, focusing on Data Science and Mach
 🔴 Red Hat Badges - Red Hat System Administration I (RH124) , OpenShift Applications (DO101) & Red Hat OpenStack Administration I: Core Operations for
 Domain Operators (CL110)
 
+--------------------------------------------------------------------------------------------------
+
+🧠 Bachelor's Degree in Human Behavior (Psychology) — Universidad San Sebastián · Graduated with distinction 
+
 📍 Santiago, Chile
 
