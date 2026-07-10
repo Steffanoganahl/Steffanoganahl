@@ -1,7 +1,7 @@
 Hi there, I'm Steffano Ganahl! 👋
 
 
-🚀 Aspiring Data Scientist | Python Developer
+Data Scientist |  Developer
 
 I'm a technology student from Santiago, Chile, focusing on Data Science and Machine Learning.
 
