@@ -9,7 +9,6 @@ I'm a technology student from Santiago, Chile, focusing on Data Science and Mach
 
 📊 Data Science & Machine Learning Bootcamp - 4Geeks Academy
 
-🐍 Python | SQL |
 
 🔴 Red Hat Badges - Red Hat System Administration I (RH124) , OpenShift Applications (DO101) & Red Hat OpenStack Administration I: Core Operations for
 Domain Operators (CL110)
